@@ -1,2 +1,2 @@
 # LP
-Game using dict
+1.Game using dict
